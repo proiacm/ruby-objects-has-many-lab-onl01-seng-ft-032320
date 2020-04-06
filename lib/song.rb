@@ -12,7 +12,6 @@ class Song
   end
   
   def artist_name
-    while self.artist.name == 
-    
+    while self.artist.name == @name
   end
 end
